@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Swetha004/Coding/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Swetha004/Coding/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Swetha004/Coding/tree/master/0238-product-of-array-except-self) |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Swetha004/Coding/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
@@ -24,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Swetha004/Coding/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
@@ -37,4 +40,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Swetha004/Coding/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
