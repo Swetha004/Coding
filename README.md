@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
+| [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,8 +45,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
+| [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
