@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Swetha004/Coding/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
