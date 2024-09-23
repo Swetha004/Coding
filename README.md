@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Swetha004/Coding/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Swetha004/Coding/tree/master/0273-integer-to-english-words) |
 ## Breadth-First Search
 |  |
@@ -129,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Swetha004/Coding/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
