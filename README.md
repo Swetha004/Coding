@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Swetha004/Coding/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Swetha004/Coding/tree/master/0279-perfect-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Swetha004/Coding/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Swetha004/Coding/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Swetha004/Coding/tree/master/0279-perfect-squares) |
 | [0398-random-pick-index](https://github.com/Swetha004/Coding/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swetha004/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Number Theory
@@ -108,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Swetha004/Coding/tree/master/0273-integer-to-english-words) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Swetha004/Coding/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
