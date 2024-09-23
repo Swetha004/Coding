@@ -6,11 +6,16 @@ class Solution {
         this.random=new Random();
     }   
     public int pick(int target) {
-        ArrayList<Integer> a=new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==target)
-                a.add(i);
+       int count=0;
+       int res=-1;
+       for(int i=0;i<nums.length;i++){
+        if(nums[i]==target){
+            count++;
+            if(random.nextInt(count)==0){
+                res=i;
+            }
         }
-        return a.get(random.nextInt(a.size()));
+       }
+       return res;
     }
 }
