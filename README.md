@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Swetha004/Coding/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Swetha004/Coding/tree/master/0279-perfect-squares) |
+| [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swetha004/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Swetha004/Coding/tree/master/0279-perfect-squares) |
 | [0398-random-pick-index](https://github.com/Swetha004/Coding/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swetha004/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
 ## Number Theory
 |  |
 | ------- |
@@ -114,4 +117,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Swetha004/Coding/tree/master/0279-perfect-squares) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
