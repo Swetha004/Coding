@@ -1,29 +1,46 @@
-import java.util.Map;
-import java.util.HashMap;
-class Solution {
-    private Map<Integer, Boolean> memo = new HashMap<>();
-    public boolean canIWin(int maxChoosableInteger, int desiredTotal) {
-        int sumOfAllIntegers = (1 + maxChoosableInteger) * maxChoosableInteger / 2;
-        if (sumOfAllIntegers < desiredTotal) {
+class Solution
+{
+    public boolean canIWin(int maxChoosableInteger, int desiredTotal) 
+    {
+        return util1(maxChoosableInteger,desiredTotal);
+    }
+    public boolean util1(int maxChoosableInteger, int desiredTotal)
+    {
+        if (maxChoosableInteger * (maxChoosableInteger + 1) / 2 < desiredTotal)
+        {
             return false;
         }
-        return depthFirstSearch(0, 0, maxChoosableInteger, desiredTotal);
+        Boolean dp[] = new Boolean[1 << (maxChoosableInteger + 1)];
+        return helper(maxChoosableInteger, desiredTotal, dp, 0, 0);
     }
-    private boolean depthFirstSearch(int usedNumbersState, int currentTotal, int maxChoosableInteger, int desiredTotal) {
-        if (memo.containsKey(usedNumbersState)) {
-            return memo.get(usedNumbersState);
+    public boolean helper(int maxChoosableInteger, int desiredTotal, Boolean dp[], int mask, int sum) 
+    {
+        if (dp[mask] != null) 
+        {
+            return dp[mask];
         }
-        boolean canWin = false;
-        for (int i = 1; i <= maxChoosableInteger; ++i) {
-            if (((usedNumbersState >> i) & 1) == 0) {
-                if (currentTotal + i >= desiredTotal
-                    || !depthFirstSearch(usedNumbersState | (1 << i), currentTotal + i, maxChoosableInteger, desiredTotal)) {
-                    canWin = true;
-                    break;
+        dp[mask] = false;
+        for (int i = 1; i <= maxChoosableInteger; i++) 
+        {
+            if ((mask & (1 << i)) == 0) 
+            {
+                if (sum + i >= desiredTotal) 
+                {
+                    dp[mask] = true;
+                } 
+                else{
+                    boolean hisAns = helper(maxChoosableInteger, desiredTotal, dp, (mask | (1 << i)), sum + i);
+                    if (hisAns == false) 
+                    {
+                        dp[mask] = true;
+                    }
                 }
             }
+            if (dp[mask]) 
+            {
+                break;
+            }
         }
-        memo.put(usedNumbersState, canWin);
-        return canWin;
+        return dp[mask];
     }
 }
