@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Swetha004/Coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Swetha004/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Swetha004/Coding/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Two Pointers
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Swetha004/Coding/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
@@ -81,12 +83,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Swetha004/Coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Swetha004/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Swetha004/Coding/tree/master/0398-random-pick-index) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Swetha004/Coding/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swetha004/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
@@ -94,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Swetha004/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
@@ -101,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Swetha004/Coding/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Swetha004/Coding/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Swetha004/Coding/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Swetha004/Coding/tree/master/0279-perfect-squares) |
 | [0398-random-pick-index](https://github.com/Swetha004/Coding/tree/master/0398-random-pick-index) |
