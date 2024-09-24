@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Swetha004/Coding/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Swetha004/Coding/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Swetha004/Coding/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Swetha004/Coding/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Swetha004/Coding/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Swetha004/Coding/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Swetha004/Coding/tree/master/0273-integer-to-english-words) |
