@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1755-defuse-the-bomb](https://github.com/Swetha004/Coding/tree/master/1755-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Swetha004/Coding/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/Swetha004/Coding/tree/master/1755-defuse-the-bomb) |
 ## Matrix
 |  |
 | ------- |
