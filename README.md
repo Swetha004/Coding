@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Swetha004/Coding/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Swetha004/Coding/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Swetha004/Coding/tree/master/0273-integer-to-english-words) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Swetha004/Coding/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Swetha004/Coding/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 ## Hash Table
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Swetha004/Coding/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Swetha004/Coding/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Swetha004/Coding/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
@@ -109,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/Swetha004/Coding/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Swetha004/Coding/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Swetha004/Coding/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Swetha004/Coding/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
