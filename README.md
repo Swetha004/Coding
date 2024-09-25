@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Swetha004/Coding/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Swetha004/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Swetha004/Coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Swetha004/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swetha004/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Swetha004/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Swetha004/Coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Swetha004/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Swetha004/Coding/tree/master/0398-random-pick-index) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swetha004/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -188,5 +190,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Swetha004/Coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Swetha004/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swetha004/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Swetha004/Coding/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
