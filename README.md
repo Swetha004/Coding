@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Swetha004/Coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Swetha004/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1755-defuse-the-bomb](https://github.com/Swetha004/Coding/tree/master/1755-defuse-the-bomb) |
 ## Two Pointers
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Swetha004/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Swetha004/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 ## Divide and Conquer
 |  |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Swetha004/Coding/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Swetha004/Coding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Swetha004/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Swetha004/Coding/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Swetha004/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Swetha004/Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swetha004/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
@@ -120,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Swetha004/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Swetha004/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
