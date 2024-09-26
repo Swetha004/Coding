@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Swetha004/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Swetha004/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Swetha004/Coding/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 ## Divide and Conquer
 |  |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Swetha004/Coding/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Swetha004/Coding/tree/master/0279-perfect-squares) |
+| [0392-is-subsequence](https://github.com/Swetha004/Coding/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
 ## Prefix Sum
 |  |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Swetha004/Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swetha004/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Swetha004/Coding/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swetha004/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
