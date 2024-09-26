@@ -16,7 +16,6 @@ class Solution {
                 max3=n;
             }
         }
-        int a=(max3==null)?max1:max3;
-        return  a;
+        return (max3==null)?max1:max3;
     }
 }
