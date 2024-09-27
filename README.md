@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Swetha004/Coding/tree/master/0414-third-maximum-number) |
 | [0729-my-calendar-i](https://github.com/Swetha004/Coding/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Swetha004/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/Swetha004/Coding/tree/master/1755-defuse-the-bomb) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Swetha004/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Swetha004/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Swetha004/Coding/tree/master/0414-third-maximum-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Swetha004/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Swetha004/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Swetha004/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/Swetha004/Coding/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Swetha004/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Swetha004/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
