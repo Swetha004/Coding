@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Swetha004/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Swetha004/Coding/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/Swetha004/Coding/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Swetha004/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Swetha004/Coding/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Swetha004/Coding/tree/master/0409-longest-palindrome) |
+| [0696-count-binary-substrings](https://github.com/Swetha004/Coding/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swetha004/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
