@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Swetha004/Coding/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Swetha004/Coding/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Swetha004/Coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Swetha004/Coding/tree/master/0067-add-binary) |
