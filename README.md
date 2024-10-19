@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Swetha004/Coding/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Swetha004/Coding/tree/master/0409-longest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/Swetha004/Coding/tree/master/0696-count-binary-substrings) |
+| [0782-jewels-and-stones](https://github.com/Swetha004/Coding/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swetha004/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Swetha004/Coding/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Swetha004/Coding/tree/master/0409-longest-palindrome) |
+| [0782-jewels-and-stones](https://github.com/Swetha004/Coding/tree/master/0782-jewels-and-stones) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swetha004/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
