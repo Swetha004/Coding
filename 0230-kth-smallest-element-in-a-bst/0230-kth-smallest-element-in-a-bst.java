@@ -14,22 +14,30 @@
  * }
  */
 class Solution {
-   
-     List<Integer> a=new ArrayList<>();
-    public int kthSmallest(TreeNode root, int k) {
-        this.traversal(root);
-        return a.get(k-1);
-        
-    }
-    TreeNode traversal(TreeNode root)
-    {
-        if(root!=null)
-        {
-            traversal(root.left);
-            a.add(root.val);
-            traversal(root.right);
-        }
-        return null;
+    
+    private static int number = 0;
+    private static int counter= 0;
+    
+    public int kthSmallest(TreeNode root, int k){
+        counter = k;
+        helper(root);
+        return number;
     }
     
+    public void helper(TreeNode node){
+        if(node.left != null){
+            helper(node.left);
+        }
+        
+        counter--;
+        
+        if(counter ==0){
+            number = node.val;
+            return;
+        }
+        
+        if(node.right!=null){
+            helper(node.right);
+        }
+    }
 }
