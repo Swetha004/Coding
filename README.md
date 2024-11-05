@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Swetha004/Coding/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0941-sort-array-by-parity](https://github.com/Swetha004/Coding/tree/master/0941-sort-array-by-parity) |
+| [1039-find-the-town-judge](https://github.com/Swetha004/Coding/tree/master/1039-find-the-town-judge) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Swetha004/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Swetha004/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/Swetha004/Coding/tree/master/1755-defuse-the-bomb) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0398-random-pick-index](https://github.com/Swetha004/Coding/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Swetha004/Coding/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/Swetha004/Coding/tree/master/0782-jewels-and-stones) |
+| [1039-find-the-town-judge](https://github.com/Swetha004/Coding/tree/master/1039-find-the-town-judge) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swetha004/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
@@ -277,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swetha004/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Swetha004/Coding/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
