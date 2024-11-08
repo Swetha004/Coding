@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
+| [0744-network-delay-time](https://github.com/Swetha004/Coding/tree/master/0744-network-delay-time) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Swetha004/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Recursion
 |  |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Swetha004/Coding/tree/master/0279-perfect-squares) |
+| [0744-network-delay-time](https://github.com/Swetha004/Coding/tree/master/0744-network-delay-time) |
 | [1073-number-of-enclaves](https://github.com/Swetha004/Coding/tree/master/1073-number-of-enclaves) |
 ## Memoization
 |  |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swetha004/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0744-network-delay-time](https://github.com/Swetha004/Coding/tree/master/0744-network-delay-time) |
 | [1073-number-of-enclaves](https://github.com/Swetha004/Coding/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
@@ -286,9 +289,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Swetha004/Coding/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Swetha004/Coding/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
 | [1073-number-of-enclaves](https://github.com/Swetha004/Coding/tree/master/1073-number-of-enclaves) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Swetha004/Coding/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
