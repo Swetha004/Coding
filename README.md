@@ -184,11 +184,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swetha004/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Swetha004/Coding/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2491-smallest-even-multiple](https://github.com/Swetha004/Coding/tree/master/2491-smallest-even-multiple) |
 | [2722-prime-in-diagonal](https://github.com/Swetha004/Coding/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Swetha004/Coding/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Swetha004/Coding/tree/master/2491-smallest-even-multiple) |
 | [2722-prime-in-diagonal](https://github.com/Swetha004/Coding/tree/master/2722-prime-in-diagonal) |
 ## Reservoir Sampling
 |  |
