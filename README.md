@@ -185,12 +185,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Swetha004/Coding/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2491-smallest-even-multiple](https://github.com/Swetha004/Coding/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Swetha004/Coding/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/Swetha004/Coding/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Swetha004/Coding/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Swetha004/Coding/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Swetha004/Coding/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/Swetha004/Coding/tree/master/2722-prime-in-diagonal) |
 ## Reservoir Sampling
 |  |
@@ -311,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0744-network-delay-time](https://github.com/Swetha004/Coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Swetha004/Coding/tree/master/0803-cheapest-flights-within-k-stops) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Swetha004/Coding/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
