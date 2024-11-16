@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Swetha004/Coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Swetha004/Coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1005-univalued-binary-tree](https://github.com/Swetha004/Coding/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Swetha004/Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Swetha004/Coding/tree/master/1073-number-of-enclaves) |
 ## Memoization
 |  |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swetha004/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/Swetha004/Coding/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Swetha004/Coding/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Swetha004/Coding/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Swetha004/Coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0975-range-sum-of-bst](https://github.com/Swetha004/Coding/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Swetha004/Coding/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Swetha004/Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Swetha004/Coding/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swetha004/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/Swetha004/Coding/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Swetha004/Coding/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Swetha004/Coding/tree/master/1035-cousins-in-binary-tree) |
 ## Graph
 |  |
 | ------- |
