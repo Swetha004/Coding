@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/Swetha004/Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Swetha004/Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Swetha004/Coding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Swetha004/Coding/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/Swetha004/Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Swetha004/Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Swetha004/Coding/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Swetha004/Coding/tree/master/2384-root-equals-sum-of-children) |
 ## Graph
 |  |
 | ------- |
