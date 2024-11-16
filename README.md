@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/Swetha004/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/Swetha004/Coding/tree/master/1755-defuse-the-bomb) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Swetha004/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2722-prime-in-diagonal](https://github.com/Swetha004/Coding/tree/master/2722-prime-in-diagonal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Swetha004/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -183,10 +184,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swetha004/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Swetha004/Coding/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2722-prime-in-diagonal](https://github.com/Swetha004/Coding/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Swetha004/Coding/tree/master/0258-add-digits) |
+| [2722-prime-in-diagonal](https://github.com/Swetha004/Coding/tree/master/2722-prime-in-diagonal) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Swetha004/Coding/tree/master/0074-search-a-2d-matrix) |
 | [1073-number-of-enclaves](https://github.com/Swetha004/Coding/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Swetha004/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2722-prime-in-diagonal](https://github.com/Swetha004/Coding/tree/master/2722-prime-in-diagonal) |
 ## Counting
 |  |
 | ------- |
