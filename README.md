@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Swetha004/Coding/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Swetha004/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Swetha004/Coding/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Swetha004/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Swetha004/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/Swetha004/Coding/tree/master/0729-my-calendar-i) |
@@ -350,4 +351,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Swetha004/Coding/tree/master/2507-number-of-common-factors) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Swetha004/Coding/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
