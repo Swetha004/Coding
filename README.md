@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Swetha004/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2722-prime-in-diagonal](https://github.com/Swetha004/Coding/tree/master/2722-prime-in-diagonal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Swetha004/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Swetha004/Coding/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Two Pointers
 |  |
 | ------- |
