@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Swetha004/Coding/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Swetha004/Coding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Swetha004/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Swetha004/Coding/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Swetha004/Coding/tree/master/0279-perfect-squares) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swetha004/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Swetha004/Coding/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Swetha004/Coding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Swetha004/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swetha004/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/Swetha004/Coding/tree/master/0975-range-sum-of-bst) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swetha004/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Swetha004/Coding/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Swetha004/Coding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Swetha004/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Swetha004/Coding/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swetha004/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -348,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swetha004/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Swetha004/Coding/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Swetha004/Coding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Swetha004/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swetha004/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/Swetha004/Coding/tree/master/0975-range-sum-of-bst) |
