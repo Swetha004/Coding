@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Swetha004/Coding/tree/master/0455-assign-cookies) |
 | [0729-my-calendar-i](https://github.com/Swetha004/Coding/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Swetha004/Coding/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0890-lemonade-change](https://github.com/Swetha004/Coding/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/Swetha004/Coding/tree/master/0941-sort-array-by-parity) |
 | [1039-find-the-town-judge](https://github.com/Swetha004/Coding/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Swetha004/Coding/tree/master/1073-number-of-enclaves) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Swetha004/Coding/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Swetha004/Coding/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Swetha004/Coding/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Swetha004/Coding/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Swetha004/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Stack
 |  |
