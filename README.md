@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Swetha004/Coding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Swetha004/Coding/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swetha004/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Swetha004/Coding/tree/master/0027-remove-element) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Swetha004/Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swetha004/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Swetha004/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Swetha004/Coding/tree/master/0205-isomorphic-strings) |
