@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Swetha004/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Swetha004/Coding/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Swetha004/Coding/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Swetha004/Coding/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Swetha004/Coding/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Swetha004/Coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Swetha004/Coding/tree/master/0219-contains-duplicate-ii) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Swetha004/Coding/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Swetha004/Coding/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Swetha004/Coding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Swetha004/Coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Swetha004/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Swetha004/Coding/tree/master/0344-reverse-string) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Swetha004/Coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Swetha004/Coding/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Swetha004/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Swetha004/Coding/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Swetha004/Coding/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
