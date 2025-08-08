@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Swetha004/Coding/tree/master/0409-longest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/Swetha004/Coding/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Swetha004/Coding/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Swetha004/Coding/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swetha004/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
@@ -435,4 +436,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swetha004/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Swetha004/Coding/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
