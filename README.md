@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Swetha004/Coding/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Swetha004/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Swetha004/Coding/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swetha004/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Swetha004/Coding/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Swetha004/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swetha004/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Swetha004/Coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Swetha004/Coding/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Swetha004/Coding/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Swetha004/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Swetha004/Coding/tree/master/0189-rotate-array) |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Swetha004/Coding/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Swetha004/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Swetha004/Coding/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Swetha004/Coding/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Swetha004/Coding/tree/master/0217-contains-duplicate) |
