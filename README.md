@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/Swetha004/Coding/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Swetha004/Coding/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Swetha004/Coding/tree/master/0874-backspace-string-compare) |
+| [1797-goal-parser-interpretation](https://github.com/Swetha004/Coding/tree/master/1797-goal-parser-interpretation) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swetha004/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
 |  |
