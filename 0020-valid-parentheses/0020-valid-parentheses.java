@@ -1,25 +1,20 @@
 class Solution {
     public boolean isValid(String s) {
-        char[] stack=new char[s.length()];
-        int i=0;
-        for(char c:s.toCharArray())
-        {
-            if(c=='{'||c=='['||c=='('){
-                stack[i++]=c;
+        ArrayList<Character> al=new ArrayList<Character>();
+        for(int i=0;i<s.length();i++){
+            char c=s.charAt(i);
+            if(c=='(' || c=='{' || c=='['){
+                al.add(c);
             }
-            else
-            {
-                if(i==0) return false;
-                if((c=='}' && stack[i-1]=='{')||(c==']' && stack[i-1]=='[')||(c==')' && stack[i-1]=='('))
-                {
-                    i--;
-                }
-                else
-                {
+            else{
+                if(al.isEmpty()) return false;
+                int n=al.size()-1;
+                if((al.get(n)=='(' && c!=')') || (al.get(n)=='{' && c!='}') || (al.get(n)=='[' && c!=']')){
                     return false;
                 }
+                al.remove(n);
             }
         }
-        return i==0;
+        return al.isEmpty();
     }
 }
