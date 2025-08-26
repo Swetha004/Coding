@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Swetha004/Coding/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swetha004/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Swetha004/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swetha004/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Swetha004/Coding/tree/master/0464-can-i-win) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Swetha004/Coding/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Swetha004/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2491-smallest-even-multiple](https://github.com/Swetha004/Coding/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Swetha004/Coding/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/Swetha004/Coding/tree/master/2722-prime-in-diagonal) |
