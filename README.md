@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Swetha004/Coding/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Swetha004/Coding/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Swetha004/Coding/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Swetha004/Coding/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Swetha004/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Swetha004/Coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Swetha004/Coding/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swetha004/Coding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Swetha004/Coding/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/Swetha004/Coding/tree/master/0218-the-skyline-problem) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Swetha004/Coding/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/Swetha004/Coding/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/Swetha004/Coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Swetha004/Coding/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -354,10 +357,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Swetha004/Coding/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/Swetha004/Coding/tree/master/0729-my-calendar-i) |
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Swetha004/Coding/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/Swetha004/Coding/tree/master/0729-my-calendar-i) |
 ## Counting Sort
 |  |
@@ -463,4 +468,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/Swetha004/Coding/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Swetha004/Coding/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Swetha004/Coding/tree/master/0177-nth-highest-salary) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Swetha004/Coding/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Swetha004/Coding/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
